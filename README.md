@@ -10,5 +10,10 @@
 
 I'm 23 y.o and have destroyed systems since 2015 as Fullstack Web Developer
 
-![Github Stats for kevyder](https://github-readme-stats.vercel.app/api?username=kevyder&show_icons=true&title_color=000000&icon_color=000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyder&hide_langs_below=1)](https://github.com/kevyder?tab=repositories)
+<a href="https://github.com/kevyder/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=true&title_color=000000&icon_color=000000&line_height=40" />
+</a>
+<a href="https://github.com/kevyder?tab=repositories">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder" />
+</a>
+
