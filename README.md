@@ -1,5 +1,7 @@
 ## Hi, I'm Kevin Rodríguez
 
+<a href="https://codetrace.com/users/kevyder"><img src="https://codetrace.com/widget/kevyder" width="220" height="50" /></a>
+
 <p>
 	<a href="https://github.com/kevyder"><img src="https://img.shields.io/github/followers/kevyder.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/kevyder"><img src="https://img.shields.io/twitter/follow/kevyder?label=Twitter&style=social" alt="Twitter"></a>
