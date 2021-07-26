@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Rodríguez
 
-<p align="center"><b>I'm 23 y.o and have destroyed systems since 2015 as Fullstack Web Developer</b></p>
+<p align="center"><b>I'm 24 y.o and have destroyed systems since 2015 as Fullstack Web Developer</b></p>
 
 <p align="center">
 	<a href="https://github.com/kevyder"><img src="https://img.shields.io/github/followers/kevyder.svg?label=GitHub&style=social" alt="GitHub"></a>
