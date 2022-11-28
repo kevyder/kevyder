@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Rodríguez
 
-<p align="center"><b>I'm 25 y.o and have destroyed systems since 2015 as Fullstack Web Developer</b></p>
+<p align="center"><b>I have destroyed systems since 2015 as Software Developer</b></p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/kevyder"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -18,9 +18,3 @@
 	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder" />
 	</a>
 <p>
-	
-## What i'm listening?
-
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kevyder&cover_image=false"/>
-</p>
