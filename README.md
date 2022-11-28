@@ -7,9 +7,6 @@
   	<a href="https://medium.com/@kevyder"><img src="https://img.shields.io/badge/Medium-kevyder-lightgrey" alt="Medium"></a>
 </p>
 
-
-## My Skills
-
 <p align="center">
 	<a href="https://github.com/kevyder/">
 		<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=true&title_color=000000&icon_color=000000&line_height=40"/>
