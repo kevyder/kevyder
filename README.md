@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Rodríguez
 
-<p align="center"><b>I have destroyed systems since 2015 as Software Developer</b></p>
+<p align="center"><b>I'm a software engineer from Bogotá D.C - Colombia</b></p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/kevyder"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
