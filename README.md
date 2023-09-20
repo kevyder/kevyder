@@ -9,17 +9,15 @@
     </a>
 </p>
 
-<p align="center">
+<div align="center">
     <a href="https://github.com/kevyder/">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=false&hide=issues&line_height=24" />
+        <img height=170 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=false&hide=issues&line_height=24" />
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/kevyder?tab=repositories">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder&layout=compact&langs_count=6" />
+        <img height=170 align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder&layout=compact&langs_count=6" />
     </a>
-</p>
+</div>
+
 
 
 
