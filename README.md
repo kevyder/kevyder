@@ -9,9 +9,9 @@
 
 <p align="center">
 	<a href="https://github.com/kevyder/">
-		<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=true&title_color=000000&icon_color=000000&line_height=40"/>
+		<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kevyder&show_icons=true&hide=issues&line_height=24"/>
 	</a>
 	<a href="https://github.com/kevyder?tab=repositories">
-	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder" />
+	  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevyder&layout=compact&langs_count=6" />
 	</a>
 <p>
