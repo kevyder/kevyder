@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/kevyder">
         <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
+    <a href="https://gitlab.com/kevyder">
+        <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab" alt="Gitlab" />
+    </a>
     <a href="https://medium.com/@kevyder">
         <img src="https://img.shields.io/badge/Medium-kevyder-lightgrey" alt="Medium" />
     </a>
