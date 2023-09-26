@@ -21,9 +21,9 @@
     </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px">
     <img
-      src="https://github.com/kevyder/kevyder/blob/master/images/stat.svg"
+      src="images/stat.svg"
       alt="kevyder's WakaTime Activity"
     />
 </div>
