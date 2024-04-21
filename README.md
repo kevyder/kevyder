@@ -15,7 +15,7 @@ My Stack, technologies and tools:
 - Programming languages: <br />
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 - Backend: <br />
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -28,11 +28,11 @@ My Stack, technologies and tools:
 - Frontend: <br />
     ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-    ![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=for-the-badge&logo=jekyll&logoColor=a83232)
-    ![Nuxt JS](http://img.shields.io/badge/-Nuxt.js-eee?style=for-the-badge&logo=nuxt.js&logoColor=a83232)
+    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white)
+    ![Jekyll](http://img.shields.io/badge/Jekyll-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=white)
+    ![Nuxt JS](http://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-More about me :point_right: [website](https://kevyder.github.io/).
+More about me and my projects :point_right: [website](https://kevyder.github.io/).
 
 
 
