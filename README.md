@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/kevin-rodriguez-backend-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/kevyder"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://medium.com/@kevyder"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.instagram.com/thekevshot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 I'm a Software Engineer from Colombia. I'm an eternal student and i love to learn something new every day.
 - :office: Working as a Software Engineer since 2015.
@@ -29,6 +30,7 @@ My Stack, technologies and tools:
     ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
     ![Jekyll](http://img.shields.io/badge/-Jekyll-eee?style=for-the-badge&logo=jekyll&logoColor=a83232)
+    ![Nuxt JS](http://img.shields.io/badge/-Nuxt.js-eee?style=for-the-badge&logo=nuxt.js&logoColor=a83232)
 
 More about me :point_right: [website](https://kevyder.github.io/).
 
