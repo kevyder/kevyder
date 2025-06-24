@@ -7,8 +7,6 @@
 I'm a Software Engineer from Colombia. I'm an eternal student and i love to learn something new every day.
 - :office: Working as a Software Engineer since 2015.
 - :snake: Currently working as a Python Backend Engineer.
-- :mag_right: Currently learning Data Analysis, Javascript and Typescript.
-- :handbag: Currently developing :point_right: [CodeTrabajo](https://codetrabajo.com/)
 - :camera: Weekends Street Photographer :point_right: [Instagram](https://www.instagram.com/thekevshot/), [thekevshot.com](https://thekevshot.com/)
 
 My Stack, technologies and tools:
