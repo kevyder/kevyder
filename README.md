@@ -29,7 +29,7 @@ My Stack, technologies and tools:
     ![Jekyll](http://img.shields.io/badge/Jekyll-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=white)
     ![Nuxt JS](http://img.shields.io/badge/Nuxt.js-35495E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-More about me and my projects :point_right: [website](https://kevyder.github.io/).
+More about me and my projects :point_right: [website](https://kevyder.dev/).
 
 
 
