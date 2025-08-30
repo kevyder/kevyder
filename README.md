@@ -4,15 +4,16 @@
 <a href="https://medium.com/@kevyder"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://www.instagram.com/thekevshot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-I'm a Software Engineer from Colombia. I'm an eternal student and i love to learn something new every day.
+Software Engineer, dedicated eternal learner, and weekend street photographer.
 - :office: Software Engineer from Bogotá D.C - Colombia.
 - :snake: Currently working as a Python Backend Engineer.
-- :camera: Weekends Street Photographer :point_right: [Instagram](https://www.instagram.com/thekevshot/), [thekevshot.com](https://thekevshot.com/)
+- :camera: Weekends Street Photographer :point_right: [instagram](https://www.instagram.com/thekevshot/), [website](https://thekevshot.com/)
 
 My Stack, technologies and tools:
 - Programming languages: <br />
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+    ![Ruby](https://img.shields.io/badge/Ruby-%23DD0031?style=for-the-badge&logo=ruby&logoColor=white)
 - Backend: <br />
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
