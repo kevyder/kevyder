@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/thekevshot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 Software Engineer, dedicated eternal learner, and weekend street photographer.
-- :office: Software Engineer from Bogotá D.C - Colombia.
+- :office: From Bogotá D.C - Colombia. 🇨🇴
 - :snake: Currently working as a Python Backend Engineer.
 - :camera: Weekends Street Photographer :point_right: [instagram](https://www.instagram.com/thekevshot/), [website](https://thekevshot.com/)
 
