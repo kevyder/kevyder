@@ -6,7 +6,7 @@
 
 Software Engineer, dedicated eternal learner, and weekend street photographer.
 - :office: From Bogotá D.C - Colombia. 🇨🇴
-- :snake: Currently working as a Python Backend Engineer.
+- :snake: Currently working as a Python Backend Engineer. (Open to work)
 - :camera: Weekends Street Photographer :point_right: [instagram](https://www.instagram.com/thekevshot/), [website](https://thekevshot.com/)
 
 My Stack, technologies and tools:
